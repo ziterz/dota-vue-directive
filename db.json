@@ -1,0 +1,22 @@
+{
+  "heros": [
+    {
+      "id": 1,
+      "name": "Pudge",
+      "type": "Strength",
+      "imageURL": "https://gamepedia.cursecdn.com/dota2_gamepedia/c/c0/Pudge_icon.png"
+    },
+    {
+      "id": 2,
+      "name": "Rubick",
+      "type": "Intelligence",
+      "imageURL": "https://gamepedia.cursecdn.com/dota2_gamepedia/8/8a/Rubick_icon.png"
+    },
+    {
+      "id": 3,
+      "name": "Shadow Fiend",
+      "type": "Agility",
+      "imageURL": "https://gamepedia.cursecdn.com/dota2_gamepedia/3/36/Shadow_Fiend_icon.png"
+    } 
+  ]
+}
